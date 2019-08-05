@@ -1,16 +1,17 @@
 # demo908
 
-the purpose of the demo 8/5/2019 is to interact with subtrees
+The purpose of the demo 8/5/2019 is to interact with subtrees.
 
-we have a repo for common code
-and multiple projects that each use a "subtree" to reference that common code
+We have a repo for common code...
+and multiple projects that each use a "subtree" 
+to reference that common code.
 
 
-## instructions
+## Instructions
 
-here in the "a" directory are a couple of applications for Mac.  the sourceforge one seems best; fork is good, too, even if its interface is less intuitive.
+Here in the "a" directory are a couple of applications for Mac.  Sourcetree seems best.  Fork is good, too, even if its interface is less intuitive.
 
-jump into the Terminal and paste this chunk to grab the repositories we'll be working with:
+Jump into the Terminal and paste this chunk to grab the repositories we'll be working with:
 
 
 mkdir -p ~/tmp/git_demo_90805 && cd ~/tmp/git_demo_90805 ;
